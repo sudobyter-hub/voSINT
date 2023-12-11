@@ -52,4 +52,4 @@ Insert your API key in the designated section of config.ini.
 Ensure your API key is correctly saved in the configuration file to enable the full functionality of voSINT.
 
 
-[![Video PoC]([URL-of-a-thumbnail-image](https://github.com/Meshall/voSINT/raw/master/Results/logo.png))](https://github.com/Meshall/voSINT/blob/master/walkthrough.MOV)
+![Video PoC](https://github.com/Meshall/voSINT/blob/master/walkthrough.gif)
